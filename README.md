@@ -128,15 +128,15 @@ plotly
 
 ### Executive Summary View
 
-![Executive Summary](assets/executive_summary.png)
+![Executive Summary](assets/executive_summary.PNG)
 
 ### Usage & Velocity Analysis
 
-![Usage & Velocity](assets/usage_velocity.png)
+![Usage & Velocity](assets/usage_velocity.PNG)
 
 ### Merchant Ecosystem View
 
-![Merchant Ecosystem](assets/merchant_ecosystem.png)
+![Merchant Ecosystem](assets/merchant_ecosystem.PNG)
 
 ---
 
