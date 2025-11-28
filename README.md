@@ -118,7 +118,7 @@ plotly
 
 ## 🌐 Live Demo
 
-👉 **Live Dashboard:** [[https://your-streamlit-app-url.streamlit.app](https://lajema-m-pesa-performace-dashboard-app-0kcswg.streamlit.app/)
+👉 **Live Dashboard:** [https://your-streamlit-app-url.streamlit.app](https://lajema-m-pesa-performace-dashboard-app-0kcswg.streamlit.app/)
 
 ---
 
