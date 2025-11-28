@@ -77,7 +77,7 @@ All data used in this dashboard is derived from:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/m-pesa-performance-dashboard.git
+git clone https://github.com/Lajema/M-pesa_performace_dashboard.git
 cd m-pesa-performance-dashboard
 ```
 
@@ -137,20 +137,6 @@ plotly
 ### Merchant Ecosystem View
 
 ![Merchant Ecosystem](assets/merchant_ecosystem.png)
-
----
-
-## 🤖 AI Assistance & Credit
-
-This dashboard structure, design logic, and analytical framing were developed with the assistance of **Google AI Studio**, which was used to support conceptualisation, layout ideation, and narrative refinement.
-
-> Credit: Google AI Studio – AI-assisted development support
-
----
-
-## 👤 Author
-
-Created by a Data Analyst with a focus on financial inclusion, digital economies, and business intelligence storytelling.
 
 ---
 
