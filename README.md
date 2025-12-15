@@ -124,8 +124,6 @@ plotly
 
 ## 🖼️ Screenshots
 
-> Add screenshots by placing images in a folder named `assets/` in your repository.
-
 ### Executive Summary View
 
 ![Executive Summary](assets/executive_summary.PNG)
